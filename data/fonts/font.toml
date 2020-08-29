@@ -2,10 +2,10 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "family=Kaushan+Script"
+google_fonts = "family=Roboto"
 
 # Font families
-heading_font = ""
-body_font = "Kaushan Script"
-nav_font = "" # 导航栏字体
-mono_font = "" # 提示字体
+heading_font = "Roboto" # 各部分头的字体
+body_font = "Roboto" # 主题内容字体
+nav_font = "Roboto" # 导航栏字体
+mono_font = "Roboto" # 提示字体
