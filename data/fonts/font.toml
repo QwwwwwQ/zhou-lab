@@ -7,5 +7,5 @@ google_fonts = "family=Kaushan+Script"
 # Font families
 heading_font = "Kaushan Script"
 body_font = "Kaushan Script"
-nav_font = "Kaushan Script"
-mono_font = "Kaushan Script"
+nav_font = ""
+mono_font = "" # 提示信息
