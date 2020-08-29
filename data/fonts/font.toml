@@ -5,7 +5,7 @@ name = "Minimal"
 google_fonts = "family=Kaushan+Script"
 
 # Font families
-heading_font = "Montserrat"
-body_font = "Roboto"
-nav_font = "Roboto"
-mono_font = "Roboto Mono"
+heading_font = "Kaushan Script"
+body_font = "Kaushan Script"
+nav_font = "Kaushan Script"
+mono_font = "Kaushan Script"
