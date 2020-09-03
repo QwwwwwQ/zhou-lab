@@ -17,8 +17,8 @@ link_hover = "rgb(54, 54, 54)"
 menu_primary = "#5B2C6F" ##fff
 menu_text = "rgb(255, 255, 255)"
 menu_text_active = "#17202A"
-menu_title = "#000"
+menu_title = "#3498DB"
 
 # Home sections
-home_section_odd = "rgb(255, 255, 255)"
+home_section_odd = "rgb(244, 208, 63)"
 home_section_even = "rgb(255, 255, 255)"
