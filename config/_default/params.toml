@@ -97,7 +97,7 @@ address = {street = "Xianlin Road No.163", city = "NanJing", region = "Jiangsu P
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "32.119943", longitude = "118.949712"}
+coordinates = {latitude = "32.119933", longitude = "118.949714"}
 
 # Directions for visitors to locate you.
 directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -267,7 +267,7 @@ plugins_js  = []
   #   3: OpenStreetMap (Mapbox)
   engine = 2
   api_key = ""
-  zoom = 15
+  zoom = 10
 
 ############################
 ## Marketing
