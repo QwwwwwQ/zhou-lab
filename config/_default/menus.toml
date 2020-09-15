@@ -9,34 +9,65 @@
   weight = 10
 
 [[main]]
-  name = "POSTS"
-  url = "#posts"
+  name = "NEWS"
+  url = "news/"
   weight = 20
-
-[[main]]
-  name = "PROJECTS"
-  url = "#projects"
-  weight = 30
-
-[[main]]
-  name = "PUBLICATIONS"
-  url = "#featured"
-  weight = 40
-
-[[main]]
-  name = "CONTACT"
-  url = "#contact"
-  weight = 60
-
+  
 [[main]]
   name = "PEOPLE"
   url = "people/"
-  weight = 70
+  weight = 30
 
 [[main]]
-  name = "PUBLICATION"
+  name = "RESEARCH"
+  url = "research/"
+  weight = 40
+ 
+ [[main]]
+  name = "PUBLICATIONS"
   url = "publication/"
+  weight = 50
+ 
+ [[main]]
+  name = "PROJECTS"
+  url = "project/"
+  weight = 60
+  
+ [[main]]
+  name = "CONTACT"
+  url = "contact/"
+  weight = 70
+
+ [[main]]
+  name = "ABOUT"
+  url = "about/"
   weight = 80
+ 
+ [[main]]
+  name = "DOWNLOAD"
+  url = "download/"
+  weight = 90
+  
+#[[main]]
+#  name = "POSTS"
+#  url = "#posts"
+#  weight = 20
+
+#[[main]]
+#  name = "PROJECTS"
+#  url = "#projects"
+#  weight = 30
+
+#[[main]]
+#  name = "PUBLICATIONS"
+#  url = "#featured"
+#  weight = 40
+
+#[[main]]
+#  name = "CONTACT"
+#  url = "#contact"
+#  weight = 60
+
   
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
