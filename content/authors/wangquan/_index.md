@@ -7,15 +7,15 @@ authors:
 - wangquan
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: Nanjing University
-  url: ""
+- name: School of Atmospheric Sciences, Nanjing University
+  url: "https://as.nju.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: His research interests include cloud microphysical properties, deep learning.
@@ -45,9 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:wangquan_rs@hotmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "wangquan_rs@hotmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
