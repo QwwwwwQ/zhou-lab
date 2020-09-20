@@ -21,8 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Cloud Radiation and Remote Sensing
-- The Feedback Effect of Cloud Radiation Effect on Climate
+-- Cloud Radiation and Remote Sensing
+
+-- The Feedback Effect of Cloud Radiation Effect on Climate
 #- Information Retrieval
 
 education:
