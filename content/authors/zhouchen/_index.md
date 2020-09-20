@@ -22,8 +22,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Cloud Radiation and Remote Sensing
+
 - The Feedback Effect of Cloud Radiation Effect on Climate
-#- Information Retrieval
+- Information Retrieval
 
 education:
   courses:
