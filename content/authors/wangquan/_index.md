@@ -14,7 +14,7 @@ role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: School of Atmospheric Sciences,Nanjing University
+- name: School of Atmospheric Sciences, Nanjing University
   url: "https://as.nju.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
